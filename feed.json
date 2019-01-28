@@ -13,6 +13,7 @@
             "id": "https://baloo1986.github.io/gh-pages/hallo-wir-sind-das-netz.html",
             "url": "https://baloo1986.github.io/gh-pages/hallo-wir-sind-das-netz.html",
             "title": "Hallo wir sind das Netz",
+            "content_html": "<img class=\"post__image align-center\" src=\"https://baloo1986.github.io/gh-pages/media/posts/1/crew.png\" alt=\"\" width=\"595\" height=\"356\">",
             "image": "https://baloo1986.github.io/gh-pages/media/posts/1/",
             "author": {
                 "name": "Christofer Brajkovic"
@@ -20,7 +21,7 @@
             "tags": [
             ],
             "date_published": "2019-01-28T21:03:14+01:00",
-            "date_modified": "2019-01-28T21:03:14+01:00"
+            "date_modified": "2019-01-28T21:16:23+01:00"
         }
     ]
 }

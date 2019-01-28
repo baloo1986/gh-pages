@@ -3,7 +3,7 @@
     <title>FreiesNetz</title>
     <link href="https://baloo1986.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://baloo1986.github.io/gh-pages" />
-    <updated>2019-01-28T21:14:32+01:00</updated>
+    <updated>2019-01-28T21:16:29+01:00</updated>
     <author>
         <name>Christofer Brajkovic</name>
     </author>
@@ -17,8 +17,13 @@
         <link href="https://baloo1986.github.io/gh-pages/hallo-wir-sind-das-netz.html"/>
         <id>https://baloo1986.github.io/gh-pages/hallo-wir-sind-das-netz.html</id>
 
-        <updated>2019-01-28T21:03:14+01:00</updated>
+        <updated>2019-01-28T21:16:23+01:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://baloo1986.github.io/gh-pages/media/posts/1/" alt="" />
+                <img class="post__image align-center" src="https://baloo1986.github.io/gh-pages/media/posts/1/crew.png" alt="" width="595" height="356">
+            ]]>
+        </content>
     </entry>
 </feed>
