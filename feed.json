@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "FreiesNetz",
+    "description": "",
+    "home_page_url": "https://baloo1986.github.io/gh-pages",
+    "feed_url": "https://baloo1986.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Christofer Brajkovic"
+    },
+    "items": [
+        {
+            "id": "https://baloo1986.github.io/gh-pages/hallo-wir-sind-das-netz.html",
+            "url": "https://baloo1986.github.io/gh-pages/hallo-wir-sind-das-netz.html",
+            "title": "Hallo wir sind das Netz",
+            "image": "https://baloo1986.github.io/gh-pages/media/posts/1/",
+            "author": {
+                "name": "Christofer Brajkovic"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-01-28T21:03:14+01:00",
+            "date_modified": "2019-01-28T21:03:14+01:00"
+        }
+    ]
+}

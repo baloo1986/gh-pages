@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>FreiesNetz</title>
+    <link href="https://baloo1986.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://baloo1986.github.io/gh-pages" />
+    <updated>2019-01-28T21:12:30+01:00</updated>
+    <author>
+        <name>Christofer Brajkovic</name>
+    </author>
+    <id>https://baloo1986.github.io/gh-pages</id>
+
+    <entry>
+        <title>Hallo wir sind das Netz</title>
+        <author>
+            <name>Christofer Brajkovic</name>
+        </author>
+        <link href="https://baloo1986.github.io/gh-pages/hallo-wir-sind-das-netz.html"/>
+        <id>https://baloo1986.github.io/gh-pages/hallo-wir-sind-das-netz.html</id>
+
+        <updated>2019-01-28T21:03:14+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
